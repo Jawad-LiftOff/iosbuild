@@ -173,6 +173,7 @@
 				TargetAttributes = {
 					132230BF1B7CC81800C6ABF2 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = LHK5K3Q5L9;
 					};
 					132230DB1B7CC81800C6ABF2 = {
 						CreatedOnToolsVersion = 6.4;
@@ -355,9 +356,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jawad Mohammad (XZLS888JS7)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jawad Mohammad (XZLS888JS7)";
 				INFOPLIST_FILE = AppIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "eba1c7aa-5c6c-428a-93cf-8ac28b69ddba";
 			};
 			name = Debug;
 		};
@@ -365,9 +369,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jawad Mohammad (XZLS888JS7)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jawad Mohammad (XZLS888JS7)";
 				INFOPLIST_FILE = AppIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "eba1c7aa-5c6c-428a-93cf-8ac28b69ddba";
 			};
 			name = Release;
 		};
@@ -424,6 +431,7 @@
 				132230E81B7CC81800C6ABF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		132230E91B7CC81800C6ABF2 /* Build configuration list for PBXNativeTarget "AppIOSTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +440,7 @@
 				132230EB1B7CC81800C6ABF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

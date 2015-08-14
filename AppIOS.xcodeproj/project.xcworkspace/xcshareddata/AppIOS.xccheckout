@@ -7,18 +7,18 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>5997C567-B51B-4EDF-9A4F-5E5A14F8C9C6</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>AppIOS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>32B82CC2E9FB1F5FDE465E6F65780823A1DEE8D6</key>
 		<string>https://github.com/Jawad-LiftOff/iosbuild.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>AppIOS/AppIOS.xcodeproj/project.xcworkspace</string>
+	<string>AppIOS.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>32B82CC2E9FB1F5FDE465E6F65780823A1DEE8D6</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/Jawad-LiftOff/iosbuild.git</string>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>32B82CC2E9FB1F5FDE465E6F65780823A1DEE8D6</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Repos</string>
+			<string>iosbuild</string>
 		</dict>
 	</array>
 </dict>
