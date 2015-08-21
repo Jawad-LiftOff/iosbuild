@@ -15,6 +15,7 @@
 		132230D41B7CC81800C6ABF2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 132230D31B7CC81800C6ABF2 /* Images.xcassets */; };
 		132230D71B7CC81800C6ABF2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 132230D51B7CC81800C6ABF2 /* LaunchScreen.xib */; };
 		132230E31B7CC81800C6ABF2 /* AppIOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 132230E21B7CC81800C6ABF2 /* AppIOSTests.m */; };
+		31E244E01B8721C40056344A /* template.plist in Resources */ = {isa = PBXBuildFile; fileRef = 31E244DF1B8721C40056344A /* template.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		132230DC1B7CC81800C6ABF2 /* AppIOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppIOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		132230E11B7CC81800C6ABF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		132230E21B7CC81800C6ABF2 /* AppIOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppIOSTests.m; sourceTree = "<group>"; };
+		31E244DF1B8721C40056344A /* template.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = template.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		132230B71B7CC81800C6ABF2 = {
 			isa = PBXGroup;
 			children = (
+				31E244DF1B8721C40056344A /* template.plist */,
 				132230C21B7CC81800C6ABF2 /* AppIOS */,
 				132230DF1B7CC81800C6ABF2 /* AppIOSTests */,
 				132230C11B7CC81800C6ABF2 /* Products */,
@@ -205,6 +208,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31E244E01B8721C40056344A /* template.plist in Resources */,
 				132230D21B7CC81800C6ABF2 /* Main.storyboard in Resources */,
 				132230D71B7CC81800C6ABF2 /* LaunchScreen.xib in Resources */,
 				132230D41B7CC81800C6ABF2 /* Images.xcassets in Resources */,
